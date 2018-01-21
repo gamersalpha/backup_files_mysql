@@ -1,0 +1,7 @@
+information_schema
+/var/www/html/liveTV
+/var/www/html/node_modules
+/var/www/html/phpsysinfo
+/var/www/html/ServerMonitor
+/var/www/html/YouPHPTube/videos
+/var/www/html/YouPHPTube-Encoder/videos
